@@ -1,0 +1,2 @@
+hello sir , we are working on designing a rare-class segmentation method using human-reported data from internet news or blogs that has mentions of rare classes  as data points.
+so we thought custom loss function that combines a standard segmentation loss (like focal or Dice) with crowd-confidence weighting. The idea is to give more importance in the loss calculation to regions where crowd data strongly suggests the presence of a rare class or developing a whole different function altogether with this. soo.. can we consider as a novel idea for our ps?
